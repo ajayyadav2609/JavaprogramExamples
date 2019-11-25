@@ -9,9 +9,7 @@ public class PracticalExample
 
 {
 	/*
-	 * public static void thirdHighest(int[]a, int total) {
-	 * 
-	 * for }
+	 *this is for practical}
 	 */
 
 	public static void main(String[] args) {
